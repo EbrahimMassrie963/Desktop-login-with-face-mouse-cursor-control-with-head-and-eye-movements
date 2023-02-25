@@ -1,0 +1,2 @@
+# Desktop-login-with-face-mouse-cursor-control-with-head-and-eye-movements
+In this project, we took data from a person's face pictures and trained a machine learning model on it to use it to log in using the same person's face so that only the owner can unlock the computer. We also added a development idea to the project so that we help paralyzed people to use the personal computer through the eyes, head and mouth only.
