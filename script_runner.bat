@@ -1,0 +1,1 @@
+"C:\Users\Tareq(Abo Morad)\AppData\Local\Programs\Python\Python38-32\python.exe" "D:\lock up.py%*
